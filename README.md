@@ -1,14 +1,14 @@
 # Coding Interview University
 
-> I originally created this as a short to-do list of study topics for becoming a software engineer,
-> but it grew to the large list you see today. After going through this study plan, [I got hired
-> as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
-> You probably won't have to study as much as I did. Anyway, everything you need is here.
+>Я начал с того, что создал небольшой спиок тем для изучения, чтобы стать инженером-программистом,
+> но он заметно пополнился к сегодняшнему дню. Полученные знания позволили [мне устроится на работу в Amazon,
+в качестве разработчика ПО](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
+> Скорее всего, Вам не захочется учить столько же, сколько и я. В любом случае, все, что Вам нужно - находится здесь.
 >
-> The items listed here will prepare you well for in an interview at just about any software company,
-> including the giants: Amazon, Facebook, Google or Microsoft.
+> Накопленный здесь материал отлично подготовит Вас к собеседованию в практически любую компанию,
+> занимающуюся разработкой ПО, включая крупные фирмы такие как Amazon, Facebook, Google или Microsoft.
 >
-> *Best of luck to you!*
+> *Удачи тебе!*
 
 Translations:
 - [中文版本](translations/README-cn.md)
