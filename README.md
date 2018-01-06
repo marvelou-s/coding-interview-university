@@ -2,7 +2,7 @@
 
 >Я начал с того, что создал небольшой спиок тем для изучения, чтобы стать инженером-программистом,
 > но он заметно пополнился к сегодняшнему дню. Полученные знания позволили [мне устроится на работу в Amazon,
-в качестве разработчика ПО](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
+в качестве инженера по разработке ПО](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
 > Скорее всего, Вам не захочется учить столько же, сколько и я. В любом случае, все, что Вам нужно - находится здесь.
 >
 > Накопленный здесь материал отлично подготовит Вас к собеседованию в практически любую компанию,
@@ -36,21 +36,25 @@ Translations in progress:
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
 - [Japanese (日本語)](https://github.com/jwasham/coding-interview-university/issues/257)
 
-## What is it?
+## Что это?
 
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
+Это мой многомесячный учебный план для того, чтобы будучи веб-разработчиком (самоучкой, без образования в
+области информатики) стать инженером-программистом для крупной компании.
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
-This is meant for **new software engineers** or those switching from
-software/web development to software engineering (where computer science knowledge is required). If you have
-many years of experience and are claiming many years of software engineering experience, expect a harder interview.
+Материал предназначен для **начинающих инженеров-программистов** или тех, кто хочет сменить род деятельности
+с веб-разработки на программную инженерию (где обязательны знания из области информатики).
 
-If you have many years of software/web development experience, note that large software companies like Google, Amazon,
-Facebook and Microsoft view software engineering as different from software/web development, and they require computer science knowledge.
+Имея за плечами многолетний опыт в сфере программной инженерии - рассчитывайте на более сложное интервью.
 
-If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
+Если Вы не один год проработали веб-разработчиком, то обратите внимание, что крупные компании вроде Google,
+Amazon, Facebook и Microsoft видят программную инженерию отличной от веб-разработки, и поэтому требуют
+знаний информатики.
 
+Для того, чтобы стать reliability engineer или operations engineer - изучайте больше из дополнительного списка
+(сети, информационная безопасноть).
+> Тонкая грань, между Software developer & Software Engineer.
 ---
 
 ## Table of Contents
