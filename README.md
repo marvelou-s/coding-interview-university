@@ -60,7 +60,7 @@
 - [Зачем учиться новому?](#why-use-it)
 - [Как этим пользоваться?](#how-to-use-it)
 - [Перестаньте думать, что Вы недостаточно умны](#dont-feel-you-arent-smart-enough)
-- [About Video Resources](#about-video-resources)
+- [О видео-материалах](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
 - [Book List](#book-list)
@@ -218,13 +218,13 @@
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 - [Believe you can change](http://www.aaronsw.com/weblog/dweck)
 
-## About Video Resources
+## <a name="about-video-resources"></a> О видео-материалах
 
-Some videos are available only by enrolling in a Coursera, EdX, or Lynda.com class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access. Lynda.com courses are not free.
+Некоторые видео-материалы доступны лишь на таких ресурсах как Coursera, EdX, или Lynda.com. Это называется [МООК](https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B9_%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BA%D1%83%D1%80%D1%81). Иногда занятия не проходят, поэтому если у Вас
+нет доступа, то придется подождать пару месяцев до начала занятий. Курсы на Lynda.com платные.
 
-    I'd appreciate your help to add free and always-available public sources, such as YouTube videos to accompany the online course videos.
-    I like using university lectures.
+    Я был бы признателен за Вашу помощь в добавлении бесплатных и общедоступных ресурсов, вроде видео на YouTube.
+    Предпочитаю университетские лекции.
 
 
 ## Interview Process & General Interview Prep
