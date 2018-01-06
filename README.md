@@ -210,7 +210,7 @@
 
 `git push --force `
 
-[Подробнее про язык разметки Markdown](https://github.com/OlgaVlasova/markdown-doc)
+[Подробнее про язык разметки Markdown](https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md)
 
 ## Don't feel you aren't smart enough
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
