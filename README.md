@@ -38,28 +38,25 @@
 
 ## Что это?
 
-Это мой многомесячный учебный план для того, чтобы будучи веб-разработчиком (самоучкой, без образования в
-области информатики) стать инженером-программистом в крупной компании.
+Это мой многомесячный учебный план для того, чтобы будучи веб-разработчиком (самоучкой, без образования в области информатики) стать инженером-программистом в крупной компании.
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
-Материал предназначен для **начинающих программистов** или тех, кто хочет сменить род деятельности
-с веб-разработки на разработку ПО (где необходимы знания в области информатики). Имея за плечами многолетний
-опыт в сфере разработки ПО - рассчитывайте на более сложное собеседование.
+Материал предназначен для **начинающих программистов** или тех, кто хочет сменить род деятельности с веб-разработки
+на разработку ПО (где необходимы знания в области информатики).
 
 Разработка ПО отличается от веб-разработки, поэтому крупные компании вроде Google, Amazon, Facebook или Microsoft
 требуют знаний информатики.
 
-Для того, чтобы стать *reliability engineer* или *operations engineer* - изучайте больше из дополнительного списка
-(сети, информационная безопасноть).
+Чем больше у Вас опыта и знаний - тем легче пройти собеседование!
 
 ---
 
-## Table of Contents
+## Содержание
 
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
+- [Что это?](#что-это)
+- [Зачем учиться новому?](#зачем-учиться-новому)
+- [Как этим пользоваться?](#как-этим-пользоваться)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
@@ -173,7 +170,7 @@
 
 ---
 
-## Зачем изучать это?
+## Зачем учиться новому?
 
 Когда я начинал этот проект, я ничего не знал о стеках и кучах, не имел понятия про большое-О, деревья или обход
 графа. Если бы мне пришлось писать алгоритм сортировки, то получилось бы не очень хорошо. Любая структура данных,
@@ -182,18 +179,17 @@
 я запускал выдавал ошибку "out of memory". Я использовал несколько многомерных и тысячи ассоциативных массивов,
 но мне так и не доводилось создать структуру данных с нуля.
 
-Это долгий путь. Он займет у Вас месяцы. Если Вам знакомо большинство из представленного, то справитесь быстрее.
+Это долгий путь. Он займет у Вас месяцы. Если Вам знакомо большинство из представленного - справитесь быстрее!
 
-## How to use it
+## Как этим пользоваться?
 
-Everything below is an outline, and you should tackle the items in order from top to bottom.
+Все, что представленно ниже - учебный план. Изучайте материал шаг за шагом, сверху вниз.
 
-I'm using Github's special markdown flavor, including tasks lists to check progress.
+Я пользуюсь специальным языком разметки (markdown), включающий списки задач, чтобы контроллировать свой прогресс.
 
-**Create a new branch so you can check items like this, just put an x in the brackets: [x]**
+**Создайте новую ветку и отслеживайте прогресс - просто поставьте х внутрь скобок: [х]**
 
-
-    Fork a branch and follow the commands below
+    Скопируйте репозиторий (fork) и следуйте командам ниже
 
 `git checkout -b progress`
 
@@ -201,7 +197,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 `git fetch --all`
 
-    Mark all boxes with X after you completed your changes
+    Отметьте изученное с помощью Х и примените изменения
 
 `git add . `
 
@@ -211,7 +207,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 `git push --force `
 
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+[Подробнее про язык разметки Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Don't feel you aren't smart enough
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
