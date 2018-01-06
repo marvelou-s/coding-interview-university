@@ -2,7 +2,7 @@
 
 >Я начал с того, что создал небольшой спиок тем для изучения, чтобы стать инженером-программистом,
 > но он заметно пополнился к сегодняшнему дню. Полученные знания позволили [мне устроится на работу в Amazon,
-в качестве инженера по разработке ПО](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
+> в качестве инженера по разработке ПО](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
 > Скорее всего, Вам не захочется учить столько же, сколько и я. В любом случае, все, что Вам нужно - находится здесь.
 >
 > Накопленный здесь материал отлично подготовит Вас к собеседованию в практически любую компанию,
@@ -10,13 +10,13 @@
 >
 > *Удачи тебе!*
 
-Translations:
+Переводы:
 - [中文版本](translations/README-cn.md)
 - [Tiếng Việt - Vietnamese](translations/README-vi.md)
 - [Español](translations/README-es.md)
 - [Português Brasileiro](translations/README-ptbr.md)
 
-Translations in progress:
+Незавершенные:
 - [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
 - [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
 - [Bahasa Indonesia](https://github.com/jwasham/coding-interview-university/issues/101)
@@ -44,17 +44,18 @@ Translations in progress:
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
 Материал предназначен для **начинающих инженеров-программистов** или тех, кто хочет сменить род деятельности
-с веб-разработки на программную инженерию (где обязательны знания из области информатики).
+с веб-разработки* на программную инженерию (где обязательны знания из области информатики).
 
 Имея за плечами многолетний опыт в сфере программной инженерии - рассчитывайте на более сложное интервью.
 
-Если Вы не один год проработали веб-разработчиком, то обратите внимание, что крупные компании вроде Google,
-Amazon, Facebook и Microsoft видят программную инженерию отличной от веб-разработки, и поэтому требуют
+Если Вы не один год проработали в *software/web development*, то обратите внимание, что крупные компании вроде Google,
+Amazon, Facebook и Microsoft видят *software engineering* отличной от *software/web development*, и поэтому требуют
 знаний информатики.
 
-Для того, чтобы стать reliability engineer или operations engineer - изучайте больше из дополнительного списка
+Для того, чтобы стать *reliability engineer* или *operations engineer* - изучайте больше из дополнительного списка
 (сети, информационная безопасноть).
-> Тонкая грань, между Software developer & Software Engineer.
+
+> \* - *в оригинале автор говорит о разнице между software/web - разработкой и software engineering. Подробнее тут.*
 ---
 
 ## Table of Contents
