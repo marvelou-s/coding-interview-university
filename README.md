@@ -59,7 +59,7 @@
 - [Что это?](#what-is-it)
 - [Зачем учиться новому?](#why-use-it)
 - [Как этим пользоваться?](#how-to-use-it)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [Перестаньте думать, что Вы недостаточно умны](#dont-feel-you-arent-smart-enough)
 - [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
@@ -212,8 +212,8 @@
 
 [Подробнее про язык разметки Markdown](https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md)
 
-## Don't feel you aren't smart enough
-- Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
+## <a name="dont-feel-you-arent-smart-enough"></a> Перестаньте думать, что Вы недостаточно умны
+- Большинство успешных разработчиков ПО считает себя недостаточно умными.
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 - [Believe you can change](http://www.aaronsw.com/weblog/dweck)
