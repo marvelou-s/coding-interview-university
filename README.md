@@ -70,7 +70,7 @@
 - [The Daily Plan](#the-daily-plan)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
-    - [Arrays](#arrays)
+    - [Массивы](#arrays)
     - [Linked Lists](#linked-lists)
     - [Stack](#stack)
     - [Queue](#queue)
@@ -515,44 +515,44 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     If some of the lectures are too mathy, you can jump down to the bottom and
     watch the discrete mathematics videos to get the background knowledge.
 
-## Data Structures
+## <a name="data-structures"></a> Структуры данных
 
-- ### Arrays
-    - Implement an automatically resizing vector.
-    - [ ] Description:
-        - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
-        - [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
-        - [Basic Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html)
-        - [Multi-dim (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html)
-        - [Dynamic Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
-        - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
-        - [Jagged Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)
-        - [Resizing arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)
-    - [ ] Implement a vector (mutable array with automatic resizing):
-        - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
-        - [ ] new raw data array with allocated memory
-            - can allocate int array under the hood, just not use its features
-            - start with 16, or if starting number is greater, use power of 2 - 16, 32, 64, 128
-        - [ ] size() - number of items
-        - [ ] capacity() - number of items it can hold
+- ### <a name="arrays"></a> Массивы
+    - Реализуйте структуру данных vector переменного размера.
+    - [ ] Описание:
+        - [Массывы (видео)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
+        - [UC Berkeley CS61B - Одномерные и многомерные массивы (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Смотреть с 15м:32с)
+        - [Массивы (видео)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html)
+        - [Многомерность (видео)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html)
+        - [Динамические массивы (видео)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
+        - [Массивы массивов (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
+        - [Массивы массивов (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)
+        - [Массивы переменного размера (видео)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)
+    - [ ] Реализуйте вектор (динамический массив переменного размера):
+        - [ ] Тренеруйтесь использовать массивы и указатели, вместо доступа по индексу используйте арифметику указателей.
+        - [ ] создайте новый массив данных с выделенной памятью:
+            - выделите память для целочисленного массива
+            - 16-бит по-умолчанию, если захотите больше - воспользуйтесь степенями двойки 2 - 16, 32, 64, 128 и т.д.
+        - [ ] size() - колличество элементов, которое содержит vector
+        - [ ] capacity() - колличество элементов, которое вмещает vector
         - [ ] is_empty()
-        - [ ] at(index) - returns item at given index, blows up if index out of bounds
+        - [ ] at(index) - возвращает элемент, которое лежит по index и ругается, если Вы вышли за границу
         - [ ] push(item)
-        - [ ] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right
-        - [ ] prepend(item) - can use insert above at index 0
-        - [ ] pop() - remove from end, return value
-        - [ ] delete(index) - delete item at index, shifting all trailing elements left
-        - [ ] remove(item) - looks for value and removes index holding it (even if in multiple places)
-        - [ ] find(item) - looks for value and returns first index with that value, -1 if not found
-        - [ ] resize(new_capacity) // private function
-            - when you reach capacity, resize to double the size
-            - when popping an item, if size is 1/4 of capacity, resize to half
-    - [ ] Time
-        - O(1) to add/remove at end (amortized for allocations for more space), index, or update
-        - O(n) to insert/remove elsewhere
-    - [ ] Space
-        - contiguous in memory, so proximity helps performance
-        - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
+        - [ ] insert(index, item) - вставка item по-указанному index со сдвигом вправо
+        - [ ] prepend(item) - вставка item по индексу 0
+        - [ ] pop() - удаляет последний элемент с конца и возвращает значение
+        - [ ] delete(index) - удаляет элемент по index со сдвигом влево
+        - [ ] remove(item) - удаляет все вхождения элемента item
+        - [ ] find(item) - возвращает индекс первого вхождения item, в противном случае -1
+        - [ ] resize(new_capacity) // приватный метод
+            - исчерпав вместимость вектора -> выделите память вдвое большего размера
+            - если при удалении элемента размер вектора соатвляет 1/4 от выделенной памяти -> выделите память вдвое меньшего размера
+    - [ ] Время
+        - O(1) для добавления/удаления с конца (амортизированное время при перевыделении памяти), доступа по индексу.
+        - O(n) для вставки/удаления
+    - [ ] Память
+        - непрерывно располагается в оперативной памяти, что хорошо отражается на производительности
+        - M(n) = (вместимость вектора >= n) * размер элемента = O(n)
 
 - ### Linked Lists
     - [ ] Description:
