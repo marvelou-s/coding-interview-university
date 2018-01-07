@@ -69,7 +69,7 @@
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [The Daily Plan](#the-daily-plan)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-- [Data Structures](#data-structures)
+- [Структуры данных](#data-structures)
     - [Массивы](#arrays)
     - [Linked Lists](#linked-lists)
     - [Stack](#stack)
@@ -520,16 +520,16 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - ### <a name="arrays"></a> Массивы
     - Реализуйте структуру данных vector переменного размера.
     - [ ] Описание:
-        - [Массывы (видео)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
+        - [Массивы (видео)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
         - [UC Berkeley CS61B - Одномерные и многомерные массивы (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Смотреть с 15м:32с)
         - [Массивы (видео)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html)
-        - [Многомерность (видео)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html)
+        - [Многомерные массивы (видео)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html)
         - [Динамические массивы (видео)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
         - [Массивы массивов (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
         - [Массивы массивов (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)
         - [Массивы переменного размера (видео)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)
     - [ ] Реализуйте вектор (динамический массив переменного размера):
-        - [ ] Тренеруйтесь использовать массивы и указатели, вместо доступа по индексу используйте арифметику указателей.
+        - [ ] Тренируйтесь использовать массивы и указатели, вместо доступа по индексу используйте арифметику указателей.
         - [ ] создайте новый массив данных с выделенной памятью:
             - выделите память для целочисленного массива
             - 16-бит по-умолчанию, если захотите больше - воспользуйтесь степенями двойки 2 - 16, 32, 64, 128 и т.д.
