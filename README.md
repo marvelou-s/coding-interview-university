@@ -958,22 +958,22 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 - ### Design patterns
     - [ ] [Quick UML review (video)](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
     - [ ] Learn these patterns:
-        - [ ] strategy
-        - [ ] singleton
-        - [ ] adapter
+        - [x] strategy
+        - [x] singleton
+        - [x] adapter
         - [ ] prototype
-        - [ ] decorator
+        - [x] decorator
         - [ ] visitor
-        - [ ] factory, abstract factory
-        - [ ] facade
-        - [ ] observer
+        - [x] factory, abstract factory
+        - [x] facade
+        - [x] observer
         - [ ] proxy
-        - [ ] delegate
-        - [ ] command
+        - [x] delegate
+        - [x] command
         - [ ] state
         - [ ] memento
         - [ ] iterator
-        - [ ] composite
+        - [x] composite
         - [ ] flyweight
     - [ ] [Chapter 6 (Part 1) - Patterns (video)](https://youtu.be/LAP2A80Ajrg?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO&t=3344)
     - [ ] [Chapter 6 (Part 2) - Abstraction-Occurrence, General Hierarchy, Player-Role, Singleton, Observer, Delegation (video)](https://www.youtube.com/watch?v=U8-PGsjvZc4&index=12&list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
